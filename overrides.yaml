@@ -1,0 +1,7 @@
+nodes:
+  '1': node_1_configs
+  '2': node_2_configs
+roles:
+  !!python/unicode 'cinder': !!python/unicode 'cinder_configs'
+  !!python/unicode 'compute': !!python/unicode 'compute_configs'
+  !!python/unicode 'controller': !!python/unicode 'controller_configs'
