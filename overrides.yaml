@@ -5,3 +5,4 @@ roles:
   'cinder': 'cinder_configs'
   'compute': 'compute_configs'
   'controller': 'controller_configs'
+  'primary-controller': 'controller_configs'
