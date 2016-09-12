@@ -6,3 +6,8 @@ roles:
   'compute': 'compute_configs'
   'controller': 'controller_configs'
   'primary-controller': 'controller_configs'
+enc:
+  modulepath:
+    - modules
+  classes:
+    - test_class
