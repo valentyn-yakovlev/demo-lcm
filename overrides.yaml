@@ -7,7 +7,6 @@ roles:
   'controller': 'controller_configs'
   'primary-controller': 'controller_configs'
 enc:
+  script: tools/enc.py
   modulepath:
     - modules
-  classes:
-    - test_class
