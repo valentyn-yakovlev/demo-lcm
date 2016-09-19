@@ -6,7 +6,7 @@ roles:
   'compute': 'compute_configs'
   'controller': 'controller_configs'
   'primary-controller': 'controller_configs'
-enc:
-  script: tools/enc.py
-  modulepath:
-    - modules
+#enc:
+#  script: tools/enc.py
+#  modulepath:
+#    - modules
